@@ -541,26 +541,5 @@
        x="599.43683"
        y="311.76642"
        id="tspan2263">Seconds</tspan></text>
-  <rect
-     width="750"
-     height="350"
-     x="0"
-     y="0"
-     style="opacity:1;fill:none;stroke:#999999;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect3251" />
-  <text
-     xml:space="preserve"
-     style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Serif"
-     x="682.10663"
-     y="333.10748"
-     id="text11233"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan11599"
-       x="682.10663"
-       y="333.10748">Tavmjong Bah © 2007</tspan><tspan
-       sodipodi:role="line"
-       id="tspan11601"
-       x="682.10663"
-       y="345.60748">http://tavmjong.free.fr/</tspan></text>
+
 </svg>
