@@ -10,7 +10,7 @@
   },
   "app": {
     "background": {
-      "scripts": ["background.js"]
+      "scripts": ["static/js/background.js"]
     }
   }
 }
