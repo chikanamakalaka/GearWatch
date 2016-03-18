@@ -239,21 +239,7 @@
          style="fill:none;stroke:none"
          id="path2518"
          inkscape:connector-curvature="0" />
-      <text
-         transform="translate(-0.25,-0.25)"
-         style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman"
-         id="text2527"
-         xml:space="preserve"
-         sodipodi:linespacing="125%"><textPath
-           xlink:href="#path2518"
-           id="textPath2529">Tavmjong Clock Works © 2007</textPath></text>
-      <text
-         style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;font-family:Times New Roman"
-         id="text2520"
-         xml:space="preserve"
-         sodipodi:linespacing="125%"><textPath
-           xlink:href="#path2518"
-           id="textPath2524">Tavmjong Clock Works © 2007</textPath></text>
+      
     </g>
   </g>
   <g
